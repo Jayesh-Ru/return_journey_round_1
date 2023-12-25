@@ -80,6 +80,7 @@ src
 
 
 ### Design
+```
     1. Logger
         
     I have tried created a generic logger in "config/logger.ts" that lets you lets you log into a file. It can be used through "fileLoggerService"
@@ -111,8 +112,7 @@ src
 
     The test first hit the POST reuqest to create a number of new products. Then it tests the specific GET requests by trying to read a random of three new created products, and then tries to GET an invalid product.
 
-
+```
 ### JavaScript Tasks
 
     The tasks 1,2 and 3 have been solved and included in the files task1,task2 and task3 respectively
-    
