@@ -80,39 +80,38 @@ src
 
 
 ### Design
+  1. Logger
+  ```    
+      I have tried created a generic logger in "config/logger.ts" that lets you lets you log into a file. It can be used through "fileLoggerService" which provides a function createFileLogger.
 ```
-    1. Logger
-        
-    I have tried created a generic logger in "config/logger.ts" that lets you lets you log into a file. It can be used through "fileLoggerService"
-    which provides a function createFileLogger.
-
-    2. Middleware
-
-    "fileLoggerMiddleware.ts" that uses fileLoggerService to create a loggger for logging all info about every request.
-
-    3. Routes
-
-    I've created a express router in "routes/index.ts" where every api call get's routed and then from index.ts we can route it to respective routes, like i've with the 'api/products/' routes.
-
-    This structure makes it easy to add new routes and expanding the app
-
-    4. Controllers
-
-    Includes all the respective controllers for productRoutes
-
-    5.types
-
-    A type declaration for the in-memory product array
-
-    6. Utils
-
-    It's always good to use utils functions and having usefull functions in utils, that can be reused throughout the app
-
-    7. tests
-
-    The test first hit the POST reuqest to create a number of new products. Then it tests the specific GET requests by trying to read a random of three new created products, and then tries to GET an invalid product.
-
+  2. Middleware
 ```
+      "fileLoggerMiddleware.ts" that uses fileLoggerService to create a loggger for logging all info about every request.
+```
+  3. Routes
+```
+      I've created a express router in "routes/index.ts" where every api call get's routed and then from index.ts we can route it to respective routes, like i've with the 'api/products/' routes.
+
+      This structure makes it easy to add new routes and expanding the app
+```
+  4. Controllers
+```
+      Includes all the respective controllers for productRoutes
+```
+  5.types
+```
+      A type declaration for the in-memory product array
+```
+  6. Utils
+```
+      It's always good to use utils functions and having usefull functions in utils, that can be reused throughout the app
+```
+  7. tests
+     
+```
+      The test first hit the POST reuqest to create a number of new products. Then it tests the specific GET requests by trying to read a random of three new created products, and then tries to GET an invalid product.
+```
+
 ### JavaScript Tasks
 
     The tasks 1,2 and 3 have been solved and included in the files task1,task2 and task3 respectively
