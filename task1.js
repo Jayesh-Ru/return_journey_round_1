@@ -5,7 +5,6 @@
   for (let i = 0; i < Arr.length; i++) {
     let isDuplicate = false;
   
-    // Check if the current element is already in the outputArray
     for (let j = 0; j < outputArray.length; j++) {
       if (Arr[i] === outputArray[j]) {
         isDuplicate = true;
@@ -13,7 +12,6 @@
       }
     }
   
-    // If not a duplicate, add it to the outputArray
     if (!isDuplicate) {
       outputArray.push(Arr[i]);
     }
