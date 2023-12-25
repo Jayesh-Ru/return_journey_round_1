@@ -1,44 +1,19 @@
 import express, {Request, Response} from "express";
 import Product from '../types/product';
+import productsControllers from "../controllers/productsControllers";
 
 let products: Product[] = [];
 
 const productRouter= express.Router();
 
-productRouter.get("/", async (req: Request, res: Response) => {
-	console.log('--------------------->',req);
-});
+productRouter.get("/", productsControllers.getProducts.bind(productsControllers));
 
-productRouter.get("/:id", async (req: Request, res: Response) => {
-	try {
-		console.log('--------------------->',req);
-	} catch (error) {
-		res.status(500).send('no book prsent with this id');
-	}
-});
+productRouter.get("/:id", productsControllers.getProductById.bind(productsControllers));
 
-productRouter.post("/", async (req: Request, res: Response) => {
-	try {
-		console.log('--------------------->',req);	
-	} catch (error) {
-		res.status(500).send('error while creating an entry');
-	}
-});
+productRouter.post("/", productsControllers.createProduct.bind(productsControllers));
 
-productRouter.delete("/:id", async (req: Request, res: Response) => {
-	try {
-		console.log('--------------------->',req);
-	} catch (error) {
-		res.status(500).send('attempt to delete an entry that is not present');
-	}
-});
+productRouter.delete("/:id", productsControllers.deleteProduct.bind(productsControllers));
 
-productRouter.put("/:id", async (req: Request, res: Response) => {
-	try {
-		console.log('--------------------->',req);
-	} catch (error) {
-		res.status(500).send('attempt to update an entry unsuccesful');
-	}
-});
+productRouter.put("/:id", productsControllers.updateProduct.bind(productsControllers));
 
-export default productRouter;
+module.exports =  productRouter;

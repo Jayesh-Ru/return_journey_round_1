@@ -1,0 +1,377 @@
+[2023-12-24T18:19:17.904Z] [INFO] Method: GET | URL: /api/products/?id=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:24:02.699Z] [INFO] Method: GET | URL: /api/products/?id=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:24:02.745Z] [INFO] Method: GET | URL: /api/products/?id=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:24:31.476Z] [INFO] Method: GET | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:24:31.518Z] [INFO] Method: GET | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:26:10.170Z] [INFO] Method: GET | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:26:10.196Z] [INFO] Method: GET | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: 
+[2023-12-24T18:30:54.493Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:30:54.496Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:31:28.187Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:31:28.188Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:34:53.199Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:34:53.205Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:37:20.562Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:37:20.582Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:40:28.017Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:40:28.020Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:41:13.490Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:41:13.496Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:17.912Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:17.914Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:32.237Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:32.238Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:38.992Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:43:38.992Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:44:28.235Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:44:28.262Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:44:47.894Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:44:47.895Z] [INFO] Method: POST | URL: /api/products/?idd=%27ZYW8890%22 | Request Body: undefined
+[2023-12-24T18:45:48.162Z] [INFO] Method: POST | URL: /api/products/?idd=3215 | Request Body: undefined
+[2023-12-24T18:45:48.165Z] [INFO] Method: POST | URL: /api/products/?idd=3215 | Request Body: undefined
+[2023-12-24T18:46:02.916Z] [INFO] Method: GET | URL: /api/products/?idd=3215 | Request Body: 
+[2023-12-24T18:46:02.930Z] [INFO] Method: GET | URL: /api/products/?idd=3215 | Request Body: 
+[2023-12-24T19:14:56.114Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:14:56.126Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:14:56.186Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:14:56.189Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:14:56.221Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:14:56.233Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:17:34.740Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:17:34.845Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:17:34.926Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:17:34.954Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:17:34.995Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:17:35.006Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:21:02.954Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:21:02.992Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:21:03.057Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:21:03.055Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:21:03.077Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:21:03.082Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:42:22.117Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:42:22.119Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:42:27.112Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:42:27.106Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:42:27.133Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:42:27.136Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:42:27.154Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:42:27.155Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:43:29.800Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:43:29.801Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:43:34.818Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:43:34.828Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:43:34.871Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:43:34.876Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:43:34.895Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:43:34.897Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:44:05.755Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:44:05.769Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:44:05.811Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:44:05.814Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:44:05.828Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:44:05.831Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:46:04.761Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:46:04.767Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:46:04.795Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:46:04.798Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:46:04.813Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:46:04.815Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:49:29.986Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:49:29.998Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:49:30.026Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:49:30.030Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:49:30.047Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:49:30.049Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:50:39.286Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:50:39.353Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:50:39.389Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:50:39.391Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:50:39.419Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:50:39.421Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:50:39.437Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:50:39.438Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:53:35.540Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:53:35.605Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:53:35.646Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:53:35.650Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:53:35.684Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:53:35.680Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:53:35.705Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:53:35.707Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:54:35.869Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:54:35.937Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:54:35.994Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:54:35.987Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:54:36.019Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:54:36.021Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:54:36.046Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:54:36.047Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:56:17.214Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:56:17.283Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:56:17.318Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:56:17.320Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:56:17.347Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:56:17.348Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:56:17.365Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:56:17.366Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:57:00.472Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:57:00.556Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:57:00.594Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:57:00.596Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:57:00.622Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:57:00.624Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:57:00.644Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:57:00.647Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:58:22.688Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:58:22.756Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:58:22.792Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:58:22.794Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:58:22.823Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:58:22.825Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:58:22.843Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:58:22.844Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:59:56.882Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:59:57.142Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T19:59:57.243Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:59:57.250Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T19:59:57.270Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:59:57.272Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T19:59:57.295Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T19:59:57.297Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:00:58.010Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:00:58.043Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:00:58.141Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:00:58.143Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:00:58.159Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:00:58.166Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:00:58.183Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:00:58.185Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:01:46.733Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:01:46.767Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:01:46.877Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:01:46.878Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:01:46.910Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:01:46.912Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:01:46.927Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:01:46.931Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:02:15.270Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:02:15.305Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:02:15.427Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:02:15.428Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:02:15.444Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:02:15.445Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:02:15.460Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:02:15.461Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:08:56.986Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.021Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.124Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.126Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.154Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.155Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.180Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.188Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.208Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.209Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.240Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.241Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.261Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.261Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.292Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.293Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.313Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.312Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.343Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.345Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.364Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.363Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.394Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.395Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.412Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.413Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.443Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.444Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.461Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.461Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.490Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.492Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.509Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.509Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.538Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.539Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.558Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.558Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:08:57.589Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.591Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:08:57.610Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:08:57.612Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:08:57.631Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:08:57.638Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:10:10.051Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.083Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.178Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.177Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.204Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.207Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.232Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.233Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.267Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.267Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.297Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.298Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.318Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.318Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.345Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.345Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.366Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.366Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.394Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.395Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:10.417Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:10:10.418Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:10:10.445Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:10:10.446Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:10:10.462Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:10:10.463Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:10:47.750Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.777Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.889Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.888Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.919Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.920Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.943Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.944Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.989Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:47.989Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.014Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.014Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.042Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.043Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.063Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.064Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.094Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.095Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.122Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.123Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:10:48.145Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:10:48.146Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:10:48.174Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:10:48.176Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:10:48.192Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:10:48.194Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:11:46.576Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.612Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.705Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.706Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.735Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.734Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.763Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.763Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.786Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.786Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.814Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.815Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.836Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.836Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.862Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.863Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.884Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.885Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.907Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.905Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:11:46.935Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:11:46.936Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:11:46.965Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:11:46.967Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:11:46.999Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:11:47.000Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:27:32.177Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.203Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.297Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.297Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.331Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.329Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.357Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.357Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.381Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.382Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.409Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.410Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.431Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.432Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.473Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.475Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.498Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.498Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.526Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.527Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:27:32.549Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:27:32.550Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:27:32.564Z] [INFO] Method: GET | URL: /api/products/3 | Request Body: 
+[2023-12-24T20:27:32.566Z] [INFO] Method: GET | URL: /api/products/3 | Request Body: 
+[2023-12-24T20:27:32.598Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:27:32.599Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:27:32.616Z] [INFO] Method: GET | URL: /api/products/6 | Request Body: 
+[2023-12-24T20:27:32.618Z] [INFO] Method: GET | URL: /api/products/6 | Request Body: 
+[2023-12-24T20:27:32.645Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:27:32.646Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:31:34.030Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.005Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.127Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.128Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.156Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.157Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.178Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.178Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.208Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.208Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.229Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.229Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.257Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.257Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.279Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.280Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.307Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.307Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.328Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.329Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:31:34.357Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:31:34.358Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:31:34.373Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:31:34.375Z] [INFO] Method: GET | URL: /api/products/1 | Request Body: 
+[2023-12-24T20:31:34.390Z] [INFO] Method: GET | URL: /api/products/2 | Request Body: 
+[2023-12-24T20:31:34.390Z] [INFO] Method: GET | URL: /api/products/2 | Request Body: 
+[2023-12-24T20:31:34.405Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:31:34.406Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:31:34.421Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:31:34.422Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:36:35.945Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:35.976Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.060Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.061Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.091Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.091Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.111Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.111Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.141Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.142Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.173Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.174Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.197Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.198Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.228Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.228Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.255Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.256Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.279Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.280Z] [INFO] Method: POST | URL: /api/products | Request Body: undefined
+[2023-12-24T20:36:36.308Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:36:36.309Z] [INFO] Method: GET | URL: /api/products | Request Body: 
+[2023-12-24T20:36:36.325Z] [INFO] Method: GET | URL: /api/products/6 | Request Body: 
+[2023-12-24T20:36:36.327Z] [INFO] Method: GET | URL: /api/products/6 | Request Body: 
+[2023-12-24T20:36:36.341Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:36:36.342Z] [INFO] Method: GET | URL: /api/products/5 | Request Body: 
+[2023-12-24T20:36:36.360Z] [INFO] Method: GET | URL: /api/products/4 | Request Body: 
+[2023-12-24T20:36:36.361Z] [INFO] Method: GET | URL: /api/products/4 | Request Body: 
+[2023-12-24T20:36:36.376Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 
+[2023-12-24T20:36:36.377Z] [INFO] Method: GET | URL: /api/products/999 | Request Body: 

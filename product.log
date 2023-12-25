@@ -1,0 +1,56 @@
+[2023-12-24T19:57:00.548Z] [ERROR] error occured in productsController
+[2023-12-24T19:57:00.594Z] [DEBUG] Fetching all products.
+[2023-12-24T19:57:00.623Z] [WARN] Product with ID 1 not found.
+[2023-12-24T19:57:00.645Z] [WARN] Product with ID 999 not found.
+[2023-12-24T19:58:22.747Z] [ERROR] error occured in productsControllerTypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.
+[2023-12-24T19:58:22.792Z] [DEBUG] Fetching all products.
+[2023-12-24T19:58:22.824Z] [WARN] Product with ID 1 not found.
+[2023-12-24T19:58:22.843Z] [WARN] Product with ID 999 not found.
+[2023-12-24T19:59:57.245Z] [DEBUG] Fetching all products.
+[2023-12-24T19:59:57.271Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T19:59:57.295Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:00:58.142Z] [DEBUG] Fetching all products.
+[2023-12-24T20:00:58.162Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:00:58.184Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:01:46.878Z] [DEBUG] Fetching all products.
+[2023-12-24T20:01:46.911Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:01:46.930Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:02:15.428Z] [DEBUG] Fetching all products.
+[2023-12-24T20:02:15.445Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:02:15.461Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:08:57.125Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.180Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.241Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.292Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.344Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.394Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.443Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.491Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.538Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.589Z] [DEBUG] Fetching all products.
+[2023-12-24T20:08:57.611Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:08:57.637Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:10:10.417Z] [DEBUG] Fetching all products.
+[2023-12-24T20:10:10.445Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:10:10.462Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:10:48.145Z] [DEBUG] Fetching all products.
+[2023-12-24T20:10:48.175Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:10:48.193Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:11:46.935Z] [DEBUG] Fetching all products.
+[2023-12-24T20:11:46.966Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:11:46.999Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:27:32.549Z] [DEBUG] Fetching all products.
+[2023-12-24T20:27:32.565Z] [DEBUG] Fetching product with ID 3.
+[2023-12-24T20:27:32.598Z] [DEBUG] Fetching product with ID 5.
+[2023-12-24T20:27:32.617Z] [DEBUG] Fetching product with ID 6.
+[2023-12-24T20:27:32.645Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:31:34.357Z] [DEBUG] Fetching all products.
+[2023-12-24T20:31:34.374Z] [DEBUG] Fetching product with ID 1.
+[2023-12-24T20:31:34.390Z] [DEBUG] Fetching product with ID 2.
+[2023-12-24T20:31:34.405Z] [DEBUG] Fetching product with ID 5.
+[2023-12-24T20:31:34.421Z] [WARN] Product with ID 999 not found.
+[2023-12-24T20:36:36.308Z] [DEBUG] Fetching all products.
+[2023-12-24T20:36:36.326Z] [DEBUG] Fetching product with ID 6.
+[2023-12-24T20:36:36.341Z] [DEBUG] Fetching product with ID 5.
+[2023-12-24T20:36:36.360Z] [DEBUG] Fetching product with ID 4.
+[2023-12-24T20:36:36.377Z] [WARN] Product with ID 999 not found.

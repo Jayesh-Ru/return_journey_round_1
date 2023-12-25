@@ -7,7 +7,7 @@
       "strict": true,
       "esModuleInterop": true
     },
-    "include": ["src/**/*.ts"],
+    "include": ["src/**/*.ts", "src/tests/productsController.test.ts"],
     "exclude": ["node_modules"]
   }
   
